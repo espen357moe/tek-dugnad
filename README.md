@@ -4,7 +4,7 @@ For telefoner og tablets finner du som regel programmene ved å søke dem opp i 
 
 [Søkbar oversikt over europeiske alternativer til "big tech"](https://european-alternatives.eu/)
 
-# Nettleser (Edge, Chrome Safari)
+## Nettleser (Edge, Chrome Safari)
 
 [Firefox](https://www.firefox.com/nb-NO/)
 
@@ -16,7 +16,7 @@ For telefoner og tablets finner du som regel programmene ved å søke dem opp i 
 
 [Opera](https://www.opera.com/download)
 
-# Søkemotor (Google, Bing)
+## Søkemotor (Google, Bing)
 
 [Qwant](https://www.qwant.com/)
 
@@ -24,7 +24,7 @@ For telefoner og tablets finner du som regel programmene ved å søke dem opp i 
 
 [DuckDuckGo](https://duckduckgo.com/)
 
-# Skylagring (OneDrive, Google Drive, iCloud)
+## Skylagring (OneDrive, Google Drive, iCloud)
 
 [Nextcloud](https://nextcloud.com/install/)
 
@@ -32,7 +32,7 @@ For telefoner og tablets finner du som regel programmene ved å søke dem opp i 
 
 [Jottacloud](https://jottacloud.com/en/)
 
-# Kontorprogrammer (Microsoft Office, Teams, Zoom)
+## Kontorprogrammer (Microsoft Office, Teams, Zoom)
 
 [LibreOffice](https://www.libreoffice.org/)
 
@@ -40,23 +40,23 @@ For telefoner og tablets finner du som regel programmene ved å søke dem opp i 
 
 [Nextcloud talk](https://nextcloud.com/talk/)
 
-# Generativ AI (ChatGPT, Grok)
+## Generativ AI (ChatGPT, Grok)
 
 [Mistral](https://chat.mistral.ai/chat)
 
 [Proton Lumo](https://lumo.proton.me/)
 
-# Direktemeldinger (Messenger, Whatsapp)
+## Direktemeldinger (Messenger, Whatsapp)
 
 [Signal](https://signal.org/download/)
 
-# Sosiale medier (Facebook, X, Instagram)
+## Sosiale medier (Facebook, X, Instagram)
 
 [Hudd](https://hudd.no)
 
 [Mastodon](https://mastodon.social/)
 
-# Bilderedigering (Photoshop)
+## Bilderedigering (Photoshop)
 
 [Canva Affinity](https://www.affinity.studio/get-affinity)
 
@@ -64,6 +64,26 @@ For telefoner og tablets finner du som regel programmene ved å søke dem opp i 
 
 [Gimp](https://www.gimp.org/downloads/)
 
-# Teknisk tegning (AutoCAD)
+## Teknisk tegning (AutoCAD)
 
 [FreeCAD](https://www.freecad.org/)
+
+## Operativsystem
+
+Linux-varianter med lav brukerterskel:
+
+* Ubuntu (Gnome DE)
+* Kubuntu (KDE DE)
+* Linux Mint (Cinnamon DE)
+
+Fremgangsmåte for å installere:
+* Ha en USB-minnepinne klar
+* Last ned BalenaEtcher (brukes for å lage installasjonsfil på minnepinnen)
+* Last ned den offisielle .iso-fila for distroen fra distroens offisielle nettside
+* Åpne BalenaEtcher, velg .iso-fila, velg USB-minnepinnen i grensesnittet
+* Start overføring i BalenaEtcher
+* Når ferdig, restart maskinen og trykk knappen under oppstart for å komme inn i UEFI / BIOS på maskinen (som regel delete, F10, F11)
+* Her vil du finne et valg for å starte maskinen fra USB-minnepinnen
+* Når dette er gjort, vil installasjon for Linux-distroen være tilgjengelig etter en liten stund med lasting
+
+Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den skrive over alt som ligger der fra før, så det er lurt å ta backup før man leker seg for mye.
