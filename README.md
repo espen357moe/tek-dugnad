@@ -87,3 +87,5 @@ Fremgangsmåte for å installere:
 * Når dette er gjort, vil installasjon for Linux-distroen være tilgjengelig etter en liten stund med lasting
 
 Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den skrive over alt som ligger der fra før, så det er lurt å ta backup før man leker seg for mye.
+
+[Video fra Forbrukerrådet om "enshittifaction"](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
