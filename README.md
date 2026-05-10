@@ -1,5 +1,6 @@
 # tek-dugnad
 Ressurser og linker til workshop
+
 For telefoner og tablets finner du som regel programmene ved å søke dem opp i enhetens *app store*.
 
 [Søkbar oversikt over europeiske alternativer til "big tech"](https://european-alternatives.eu/)
