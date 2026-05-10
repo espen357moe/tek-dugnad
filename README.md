@@ -1,7 +1,6 @@
 # tek-dugnad
-Ressurser og linker til workshop
 
-For telefoner og tablets finner du som regel programmene ved å søke dem opp i enhetens *app store*.
+For telefoner og tablets finner du som regel programmene ved å søke dem opp i enhetens *app store*. På PC og Mac installeres programmene enten via offisiell nettside eller gjennom Windows Store / App Store.
 
 [Søkbar oversikt over europeiske alternativer til "big tech"](https://european-alternatives.eu/)
 
