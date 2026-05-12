@@ -87,8 +87,9 @@ Fremgangsmåte for å installere:
 * Åpne BalenaEtcher, velg .iso-fila, velg USB-minnepinnen i grensesnittet
 * Start overføring i BalenaEtcher
 * Når ferdig, restart maskinen og trykk knappen under oppstart for å komme inn i UEFI / BIOS på maskinen (som regel delete, F10, F11)
-* Her vil du finne et valg for å starte maskinen fra USB-minnepinnen
-* Når dette er gjort, vil installasjon for Linux-distroen være tilgjengelig etter en liten stund med lasting
+* Her vil du finne et valg for å starte maskinen fra USB-minnepinnen (avhenger fra produsent til produsent hvor dette er)
+* Når dette er gjort, vil man først starte maskinen kjørende Linux fra minnepinnen - her vil det være et valg for å installere det på maskinens harddisk
+* Etter installasjonen er ferdig, vil man som regel bli bedt om å fjerne minnepinnen - deretter vil systemet starte fra den nye Linux-installasjonen på harddisken
 
 Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den skrive over alt som ligger der fra før, så det er lurt å ta backup før man leker seg for mye.
 
