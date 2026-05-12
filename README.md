@@ -2,7 +2,8 @@
 
 For telefoner og tablets finner du som regel programmene ved å søke dem opp i enhetens *app store*. På PC og Mac installeres programmene enten via offisiell nettside eller gjennom Windows Store / App Store.
 
-[Søkbar oversikt over europeiske alternativer til "big tech"](https://european-alternatives.eu/)
+[[Søkbar oversikt nr. 1 over europeiske alternativer til "big tech"](https://only-eu.eu/en/categories)
+[Søkbar oversikt nr. 2 over europeiske alternativer til "big tech"](https://european-alternatives.eu/)
 
 Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finnes flere.
 
