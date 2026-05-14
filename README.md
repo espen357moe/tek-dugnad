@@ -97,7 +97,7 @@ Fremgangsmåte for å installere:
 * Når dette er gjort, vil man først starte maskinen kjørende Linux fra minnepinnen - her vil det være et valg for å installere det på maskinens harddisk
 * Etter installasjonen er ferdig, vil man som regel bli bedt om å fjerne minnepinnen - deretter vil systemet starte fra den nye Linux-installasjonen på harddisken
 
-Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den skrive over alt som ligger der fra før, så det er lurt å ta backup før man leker seg for mye.
+Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den i utgangspunktet skrive over alt som ligger der fra før, så man må ha et aktivt forhold til hva man ønsker når man installerer.
 
 ## Relevante lenker
 
