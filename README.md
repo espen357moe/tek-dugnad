@@ -30,11 +30,11 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 ## Skylagring (OneDrive, Google Drive, iCloud)
 
-[Nextcloud](https://nextcloud.com/install/)
-
 [Proton Drive](https://proton.me/drive)
 
 [Jottacloud](https://jottacloud.com/en/)
+
+[Nextcloud](https://nextcloud.com/install/)
 
 ## Kontorprogrammer (Microsoft Office, Teams, Zoom)
 
