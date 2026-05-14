@@ -88,10 +88,10 @@ Linux-distroer med lav brukerterskel:
 
 Fremgangsmåte for å installere:
 * Ha en USB-minnepinne klar
-* Last ned [BalenaEtcher](https://etcher.balena.io/) (brukes for opprette installasjonsfil på minnepinnen)
 * Last ned den offisielle .iso-fila for distroen fra distroens offisielle nettside
+* Last ned og installér [BalenaEtcher](https://etcher.balena.io/)
 * Åpne BalenaEtcher, velg .iso-fila, velg USB-minnepinnen i grensesnittet
-* Start overføring i BalenaEtcher
+* Start overføring til USB i BalenaEtcher
 * Når ferdig, restart maskinen og trykk knappen under oppstart for å komme inn i UEFI / BIOS på maskinen (som regel delete, F10, F11)
 * Her vil du finne et valg for å starte maskinen fra USB-minnepinnen (avhenger fra produsent til produsent hvor dette er)
 * Når dette er gjort, vil man først starte maskinen kjørende Linux fra minnepinnen - her vil det være et valg for å installere det på maskinens harddisk
