@@ -48,6 +48,8 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 [HERE WeGo](https://wego.here.com/)
 
+[Organic Maps](https://organicmaps.app/)
+
 ## Generativ AI (ChatGPT, Grok)
 
 [Mistral](https://chat.mistral.ai/chat)
