@@ -78,7 +78,7 @@ Linux er et gratis og åpen-kildekode operativsystem. En "distro" er en pakketer
 
 *Merknad: Til det aller meste av vanlig, daglig bruk, fungerer Linux ypperlig som en erstatning. Merk dog at hvis man er avhengig av industrispesifikke programmer, kan det være vanskelig å finne fullgode alternativer som kjører på Linux. Eksempler er Autodesk AutoCAD, Adobe Illustrator, Photoshop, Avid Pro Tools for å nevne noen.*
 
-De to vanligste skrivebordsmiljøene til Linux er Gnome og KDE.
+De to vanligste skrivebordsmiljøene til Linux er [Gnome](https://www.gnome.org/) og [KDE](https://kde.org/). Man trenger ikke gjøre noe aktivt for å installere et skrivebordsmiljø - de kommer ferdig pakketert i distroen man velger.
 
 Linux-distroer med lav brukerterskel:
 
