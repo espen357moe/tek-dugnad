@@ -86,7 +86,7 @@ Linux-distroer med lav brukerterskel:
 * [Kubuntu](https://kubuntu.org/) (KDE skrivebordsmiljø)
 * [Linux Mint](https://www.linuxmint.com/) (Cinnamon skrivebordsmiljø)
 
-Fremgangsmåte for å installere:
+Fremgangsmåte for å installere (dette står også som regel utførlig beskrevet på distroenes nedlastingssider):
 * Ha en USB-minnepinne klar
 * Last ned den offisielle .iso-fila for distroen fra distroens offisielle nettside
 * Last ned og installér [BalenaEtcher](https://etcher.balena.io/)
