@@ -76,9 +76,7 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 Linux er et gratis og åpen-kildekode operativsystem. En "distro" er en pakketering av Linux-kjernen med et "desktop environment" ("skrivebordsmiljø", det som gir operativsystemet et utseende og funksjonalitet man kjenner igjen fra Windows og MacOS), samt en rekke nyttige programmer. 
 
-*Merknad: Til det aller meste av vanlig, daglig bruk, fungerer Linux ypperlig som erstatning for Windows. Det er også mulig å installere Linux på en Mac, men det krever mer innsats og forarbeid. 
-
-Merk at hvis man er avhengig av industrispesifikke programmer, kan det være vanskelig å finne fullgode alternativer som kjører på Linux. Eksempler er Autodesk AutoCAD, Adobe Illustrator, Photoshop, Avid Pro Tools for å nevne noen.*
+*Merknad: Til det aller meste av vanlig, daglig bruk, fungerer Linux ypperlig som erstatning for Windows. Det er også mulig å installere Linux på en Mac, men det krever mer innsats og forarbeid. Hvis man er avhengig av industrispesifikke programmer, kan det være vanskelig å finne fullgode alternativer som kjører på Linux. Eksempler er Autodesk AutoCAD, Adobe Illustrator, Photoshop, Avid Pro Tools for å nevne noen.*
 
 De to vanligste skrivebordsmiljøene til Linux er [Gnome](https://www.gnome.org/) og [KDE](https://kde.org/). Man trenger ikke gjøre noe aktivt for å installere et skrivebordsmiljø - de kommer ferdig pakketert i distroen man velger.
 
