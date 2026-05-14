@@ -80,9 +80,9 @@ De to vanligste skrivebordsmiljøene til Linux er Gnome og KDE.
 
 Linux-distroer med lav brukerterskel:
 
-* Ubuntu (Gnome DE)
-* Kubuntu (KDE DE)
-* Linux Mint (Cinnamon DE)
+* Ubuntu (Gnome skrivebordsmiljø)
+* Kubuntu (KDE skrivebordsmiljø)
+* Linux Mint (Cinnamon skrivebordsmiljø)
 
 Fremgangsmåte for å installere:
 * Ha en USB-minnepinne klar
