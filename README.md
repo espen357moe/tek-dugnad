@@ -96,3 +96,4 @@ Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-d
 ## Relevante lenker
 [The case for digital independence](https://www.devproblems.com/european-alternatives-to-microsoft-office/#Why_Go_European_The_Case_for_Digital_Independence)
 [Video fra Forbrukerrådet om "enshittifaction"](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
+[How Google Tracks Everything You Do and How to Stop It](https://www.youtube.com/watch?v=WJ8clVdaRKA)
