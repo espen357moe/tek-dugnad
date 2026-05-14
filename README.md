@@ -103,7 +103,7 @@ Fremgangsmåte for å installere (dette står også som regel utførlig beskreve
 
 Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den i utgangspunktet skrive over alt som ligger der fra før, så man må ha et aktivt forhold til hva man ønsker når man installerer.
 
-For nysgjerrige, her er et knippe andre Linux-distroer hvor lav brukerterskel ikke nødvendigvis er i fokus:
+For nysgjerrige, her er et knippe andre Linux-distroer hvor lav brukerterskel for generelle brukere ikke nødvendigvis er i fokus:
 
 [Fedora KDE Plasma Desktop](https://fedoraproject.org/kde/)
 
@@ -112,6 +112,8 @@ For nysgjerrige, her er et knippe andre Linux-distroer hvor lav brukerterskel ik
 [Pop!_OS](https://system76.com/pop/)
 
 [CachyOS](https://cachyos.org/)
+
+[Steam OS](https://store.steampowered.com/steamos) (Optimalisert for gaming)
 
 [Arch Linux](https://archlinux.org/) (For avanserte brukere)
 
