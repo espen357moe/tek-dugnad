@@ -74,6 +74,10 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 ## Operativsystem
 
+Linux er et gratis og åpen-kildekode operativsystem. En "distro" er en pakketering av Linux-kjernen med et "desktop environment" ("skrivebordsmiljø", det som gir operativsystemet et utseende og funksjonalitet man kjenner igjen fra Windows og MacOS), samt en rekke nyttige programmer. 
+
+De to vanligste skrivebordsmiljøene til Linux er Gnome og KDE.
+
 Linux-varianter med lav brukerterskel:
 
 * Ubuntu (Gnome DE)
@@ -82,7 +86,7 @@ Linux-varianter med lav brukerterskel:
 
 Fremgangsmåte for å installere:
 * Ha en USB-minnepinne klar
-* Last ned BalenaEtcher (brukes for å lage installasjonsfil på minnepinnen)
+* Last ned [BalenaEtcher](https://etcher.balena.io/) (brukes for opprette installasjonsfil på minnepinnen)
 * Last ned den offisielle .iso-fila for distroen fra distroens offisielle nettside
 * Åpne BalenaEtcher, velg .iso-fila, velg USB-minnepinnen i grensesnittet
 * Start overføring i BalenaEtcher
