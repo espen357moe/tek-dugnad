@@ -92,7 +92,7 @@ Fremgangsmåte for å installere:
 * Last ned og installér [BalenaEtcher](https://etcher.balena.io/)
 * Åpne BalenaEtcher, velg .iso-fila, velg USB-minnepinnen i grensesnittet
 * Start overføring til USB i BalenaEtcher
-* Når ferdig, restart maskinen og trykk knappen under oppstart for å komme inn i UEFI / BIOS på maskinen (som regel delete, F10, F11)
+* Når ferdig, restart maskinen og trykk knappen under oppstart for å komme inn i UEFI / BIOS på maskinen (varierer fra produsent til produsent, men som regel delete, F10, F11)
 * Her vil du finne et valg for å starte maskinen fra USB-minnepinnen (avhenger fra produsent til produsent hvor dette er)
 * Når dette er gjort, vil man først starte maskinen kjørende Linux fra minnepinnen - her vil det være et valg for å installere det på maskinens harddisk
 * Etter installasjonen er ferdig, vil man som regel bli bedt om å fjerne minnepinnen - deretter vil systemet starte fra den nye Linux-installasjonen på harddisken
