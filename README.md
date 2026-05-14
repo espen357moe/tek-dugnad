@@ -99,6 +99,19 @@ Fremgangsmåte for å installere (dette står også som regel utførlig beskreve
 
 Merk at man kan velge hvor Linux-distroen skal installeres. Velger man Windows-disken, vil den i utgangspunktet skrive over alt som ligger der fra før, så man må ha et aktivt forhold til hva man ønsker når man installerer.
 
+For nysgjerrige, her er et knippe andre Linux-distroer hvor lav brukerterskel ikke nødvendigvis er i fokus:
+
+[Fedora KDE Plasma Desktop](https://fedoraproject.org/kde/)
+
+[OpenSUSE](https://www.opensuse.org/)
+
+[Pop!_OS](https://system76.com/pop/)
+
+[CachyOS](https://cachyos.org/)
+
+[Arch Linux](https://archlinux.org/) (For avanserte brukere)
+
+
 ## Relevante lenker
 
 [The case for digital independence](https://www.devproblems.com/european-alternatives-to-microsoft-office/#Why_Go_European_The_Case_for_Digital_Independence)
