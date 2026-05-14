@@ -44,6 +44,10 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 [Nextcloud talk](https://nextcloud.com/talk/)
 
+## Karttjenester (Google Maps)
+
+[HERE WeGo](https://wego.here.com/)
+
 ## Generativ AI (ChatGPT, Grok)
 
 [Mistral](https://chat.mistral.ai/chat)
