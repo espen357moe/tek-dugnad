@@ -78,7 +78,7 @@ Linux er et gratis og åpen-kildekode operativsystem. En "distro" er en pakketer
 
 De to vanligste skrivebordsmiljøene til Linux er Gnome og KDE.
 
-Linux-varianter med lav brukerterskel:
+Linux-distroer med lav brukerterskel:
 
 * Ubuntu (Gnome DE)
 * Kubuntu (KDE DE)
