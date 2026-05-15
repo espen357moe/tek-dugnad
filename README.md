@@ -74,9 +74,12 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 [Gimp](https://www.gimp.org/downloads/)
 
-## Teknisk tegning (AutoCAD)
+## Annet
 
-[FreeCAD](https://www.freecad.org/)
+[FreeCAD](https://www.freecad.org/) - teknisk tegning / data-assistert design
+[Audacity](https://www.audacityteam.org/) - lydopptak, lydredigering
+[OpenShot](https://www.openshot.org/) - enkel videoredigering
+[Kdenlive](https://kdenlive.org/) - avansert videoredigering
 
 ## Operativsystem
 
