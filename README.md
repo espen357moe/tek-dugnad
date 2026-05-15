@@ -6,7 +6,7 @@ For telefoner og nettbrett finner du som regel programmene ved å søke dem opp 
 
 [Søkbar oversikt nr. 2 over europeiske alternativer til "big tech"](https://european-alternatives.eu/)
 
-Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finnes flere.
+Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Eksempler på hva de erstatter står i parentes.
 
 ## Nettleser (Edge, Chrome Safari)
 
