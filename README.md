@@ -74,11 +74,16 @@ Følgende alternativer er et mer eller mindre vilkårlig valgt utdrag. Det finne
 
 [Gimp](https://www.gimp.org/downloads/)
 
-## Annet
+## Andre nyttige gratisprogrammer
 
 [FreeCAD](https://www.freecad.org/) - teknisk tegning / data-assistert design
+
+[Blender](https://www.blender.org/) - 3d-modellering
+
 [Audacity](https://www.audacityteam.org/) - lydopptak, lydredigering
+
 [OpenShot](https://www.openshot.org/) - enkel videoredigering
+
 [Kdenlive](https://kdenlive.org/) - avansert videoredigering
 
 ## Operativsystem
