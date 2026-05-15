@@ -1,6 +1,6 @@
 # tek-dugnad
 
-For telefoner og tablets finner du som regel programmene ved å søke dem opp i enhetens *app store*. På PC og Mac installeres programmene enten via offisiell nettside eller gjennom Windows Store / App Store.
+For telefoner og nettbrett finner du som regel programmene ved å søke dem opp i enhetens *app store*. På PC og Mac installeres programmene enten via offisiell nettside eller gjennom Windows Store / App Store.
 
 [Søkbar oversikt nr. 1 over europeiske alternativer til "big tech"](https://only-eu.eu/en/categories)
 
